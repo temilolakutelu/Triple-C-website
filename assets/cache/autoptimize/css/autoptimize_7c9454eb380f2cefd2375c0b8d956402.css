@@ -76790,7 +76790,8 @@ input[type=submit] {
 .bt-header.header-1 .bt-header-main .bt-nav-wrap .bt-site-navigation>ul.bt-nav-menu li.menu-item.menu-item-custom-type-button_donate .give-form-wrap form.give-form .give-btn,
 .bt-header.header-2 .bt-header-main .bt-nav-wrap .bt-site-navigation>ul.bt-nav-menu li.menu-item.menu-item-custom-type-button_donate .give-form-wrap form.give-form .give-btn,
 .bt-header.header-3 .bt-header-main .bt-nav-wrap .bt-site-navigation>ul.bt-nav-menu li.menu-item.menu-item-custom-type-button_donate .give-form-wrap form.give-form .give-btn,
-.bt-header-mobi.header-mobi .bt-header-mobi-main .bt-nav-wrap .bt-site-navigation>ul.bt-nav-menu li.menu-item.menu-item-custom-type-button_donate .give-form-wrap form.give-form .give-btn {
+.bt-header-mobi.header-mobi .bt-header-mobi-main .bt-nav-wrap .bt-site-navigation>ul.bt-nav-menu li.menu-item.menu-item-custom-type-button_donate .give-form-wrap form.give-form .give-btn,
+.bt-grantform a span{
   margin: 0;
   padding: 7px 18px;
   color: #fff;
@@ -76804,7 +76805,18 @@ input[type=submit] {
   font-style: normal;
   font-weight: 600
 }
-
+.bt-grantform a span{
+  padding: 0px 7px;
+  color: #fff;
+  height: 38px;
+  border-radius: 3px;
+  line-height: 2.5;
+  text-transform: uppercase;
+}
+.bt-grantform:hover a span{
+  background:grey;
+  
+}
 .bt-header.header-1 .bt-header-main .bt-nav-wrap .bt-site-navigation>ul.bt-nav-menu li.menu-item.menu-item-custom-type-button_donate .give-form-wrap form.give-form .give-btn:hover,
 .bt-header.header-2 .bt-header-main .bt-nav-wrap .bt-site-navigation>ul.bt-nav-menu li.menu-item.menu-item-custom-type-button_donate .give-form-wrap form.give-form .give-btn:hover,
 .bt-header.header-3 .bt-header-main .bt-nav-wrap .bt-site-navigation>ul.bt-nav-menu li.menu-item.menu-item-custom-type-button_donate .give-form-wrap form.give-form .give-btn:hover,
