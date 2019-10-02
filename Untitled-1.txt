@@ -1,0 +1,235 @@
+    <li id="menu-item-3973" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3973  bt-grantform" style="">
+                                                <a href="#grant" data-toggle="modal" data-target="#grant" title="Purchase Grant form for N2000 only"><span>Get Grant
+                                                        Form</span></a>
+                                            </li>
+                                            
+                                            <!-- Modal -->
+                                            <div class="modal fade" id="grant" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                                                <div class="modal-dialog ">
+                                                    <div class="modal-content">
+                                                        <!-- Modal Header -->
+                                                        <div class="modal-header">
+                                                            <h2 class="modal-title text-danger text-center" id="myModalLabel">
+                                                                TRIPLE C GRANT APPLICATION
+                                                            </h2>
+                                                            <button type="button" class="close" data-dismiss="modal">
+                                                                <span class="text-danger" aria-hidden="true">X</span>
+                                                                <span class="sr-only text-danger">Close</span>
+                                                            </button>
+    
+                                                        </div>
+    
+                                                        <!-- Modal Body -->
+                                                        <div class="modal-body">
+                                                            <form id="grantform" class="form-horizontal" role="form">
+                                                                <div class="container " style="padding:2rem;">
+                                                                    <div class="row">
+                                                                        <div class="form-group col-xs-12">
+                                                                            <label class="text-left float-left" for="date">Date
+                                                                                Of
+                                                                                Application</label>
+                                                                            <div class="">
+                                                                                <input type="date" class="form-control" />
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="form-group col-xs-12">
+                                                                            <label class="text-left float-left">Legal
+                                                                                name of
+                                                                                Individual/organization applying</label>
+                                                                            <div class="">
+                                                                                <input type="text" class="form-control" />
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="row col-xs-12">
+                                                                            <div class="form-group col-xs-6 p-0 m-0">
+                                                                                <label class=" text-left float-left">Year
+                                                                                    Founded</label>
+                                                                                <div class="">
+                                                                                    <input type="number" min="2010" class="form-control" />
+                                                                                </div>
+                                                                            </div>
+    
+                                                                            <div class="form-group col-xs-6 p-0 m-0">
+                                                                                <label class=" text-left float-left">Current
+                                                                                    Operating
+                                                                                    Budget</label>
+                                                                                <div class="">
+                                                                                    <input type="text" class="form-control" />
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="form-group col-xs-12">
+                                                                            <label class="text-left float-left">Email
+                                                                                Address</label>
+                                                                            <div class="">
+                                                                                <input type="email" class="form-control" />
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="row col-xs-12">
+                                                                            <div class="form-group col-xs-4">
+                                                                                <label class="float-left text-left">Contact
+                                                                                    Person</label>
+                                                                                <div class="">
+                                                                                    <input type="text" class="form-control" />
+                                                                                </div>
+                                                                            </div>
+                                                                            &nbsp;&nbsp;&nbsp;&nbsp;
+                                                                            <div class="form-group col-xs-4">
+                                                                                <label class="float-left text-left">Title</label>
+                                                                                <div class="">
+                                                                                    <input type="text" class="form-control" />
+                                                                                </div>
+                                                                            </div>
+                                                                            &nbsp;&nbsp;&nbsp;&nbsp;
+                                                                            <div class="form-group col-xs-4">
+                                                                                <label class="float-left text-left">Contact
+                                                                                    Phone
+                                                                                    Number</label>
+                                                                                <div class="">
+                                                                                    <input type="text" class="form-control" />
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="form-group col-xs-12">
+                                                                            <label class="float-left text-left">Address
+                                                                                <i>
+                                                                                    (principal/administrative
+                                                                                    office)</i></label>
+                                                                            <div class="">
+                                                                                <input type="text" class="form-control" />
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="form-group col-xs-12">
+                                                                            <label class="float-left text-left">Web
+                                                                                Address
+                                                                                <i>(if
+                                                                                    any)</i></label>
+                                                                            <div class="">
+                                                                                <input type="text" class="form-control" />
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="row col-xs-12">
+                                                                            <div class="form-group col-xs-6">
+                                                                                <label class="float-left text-left">Account
+                                                                                    No.</label>
+                                                                                <div class="">
+                                                                                    <input type="text" class="form-control" />
+                                                                                </div>
+                                                                            </div>
+                                                                            &nbsp;&nbsp;&nbsp;&nbsp;
+                                                                            <div class="form-group col-xs-6">
+                                                                                <label class="float-left text-left">Bank
+                                                                                    Name</label>
+                                                                                <div class="">
+                                                                                    <input type="text" class="form-control" />
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="form-group col-xs-12">
+                                                                            <label class="float-left text-left">When
+                                                                                do you
+                                                                                intend
+                                                                                to start the Project</label>
+                                                                            <div class="">
+                                                                                <input type="text" class="form-control" />
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="form-group col-xs-12">
+                                                                            <label class="float-left text-left">Asides
+                                                                                awarding the
+                                                                                grant,
+                                                                                what else can the foundation do to support
+                                                                                you?
+                                                                            </label>
+                                                                            <div class="">
+                                                                                <textarea class="form-control" rows="5"></textarea>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="row col-xs-12">
+                                                                            <div class="form-group col-xs-6">
+                                                                                <label class="float-left text-left">Amount
+                                                                                    Requested:
+                                                                                    <i>&#8358;</i></label>
+                                                                                <div class="">
+                                                                                    <input type="text" class="form-control" />
+                                                                                </div>
+                                                                            </div>
+                                                                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                                                            <div class="form-group col-xs-6">
+                                                                                <label class="float-left text-left">Total
+                                                                                    Project
+                                                                                    Cost:<i>&#8358;</i></label>
+                                                                                <div class="">
+                                                                                    <input type="text" class="form-control" />
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="form-group col-xs-12">
+                                                                            <div class="checkbox">
+                                                                                <label class="float-left text-left">
+                                                                                    <input type="checkbox" /><i> I admit
+                                                                                        that
+                                                                                        every
+                                                                                        information given is true and void
+                                                                                        of
+                                                                                        discrepancy. The grant issued will
+                                                                                        be
+                                                                                        used
+                                                                                        solely for the project stated and
+                                                                                        will
+                                                                                        be
+                                                                                        considered criminal if I default in
+                                                                                        any
+                                                                                        way.</i>
+                                                                                </label>
+                                                                            </div>
+                                                                        </div>
+    
+                                                                        <div class="form-group col-xs-12">
+                                                                            <label class=" control-label float-left text-left">Purpose
+                                                                                of
+                                                                                Grant
+                                                                            </label>
+                                                                            <div class="">
+                                                                                <textarea class="form-control" rows="5"></textarea>
+                                                                            </div>
+                                                                        </div>
+    
+                                                                        <div class="col-xs-12 float-left text-left">
+                                                                            <h5><i>Disclaimer:</i></h5>
+                                                                            <p><i>Payment with purchase of this form herein
+                                                                                    is
+                                                                                    non-refundable. Every information
+                                                                                    provided
+                                                                                    will
+                                                                                    be treated as confidential and no third
+                                                                                    party
+                                                                                    will have any access whatsoever except
+                                                                                    staff
+                                                                                    of
+                                                                                    the foundation to handle and process
+                                                                                    document.</i></p>
+    
+                                                                        </div>
+    
+                                                                        <div class="form-group col-xs-12">
+                                                                            <div class="col-sm-offset-2 col-sm-10">
+                                                                                <a href="https://rave.flutterwave.com/pay/triplecgrant" class="btn btn-lg btn-danger">Submit</a>
+                                                                                <!-- <button type="submit" class=" btn-lg btn btn-danger">Submit</button> -->
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </form>
+    
+    
+    
+    
+    
+    
+                                                        </div>
+    
+    
+                                                    </div>
+                                                </div>
+                                            </div>
